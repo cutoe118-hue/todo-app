@@ -1,0 +1,9 @@
+{
+"name": "달성률 Todo 앱",
+"short_name": "TodoRate",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#6c7bff",
+"icons": []
+}
